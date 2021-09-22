@@ -5,7 +5,7 @@ import requests
 import json
 app = Flask(__name__)
 #TODO
-print("SomeOneHelpMe")
+print("SomeOneHelpMe2")
 URL = 'https://api.telegram.org/bot1953357082:AAHPqtBfi2HA_IsJrFQDM4m5zkpA6HsnoQ8/'
 
 
