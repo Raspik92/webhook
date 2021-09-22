@@ -1,0 +1,81 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 48537598,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 333003124,
+          "is_bot": false,
+          "first_name": "Вадим",
+          "last_name": "Пеньков",
+          "username": "mrraspik",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 333003124,
+          "first_name": "Вадим",
+          "last_name": "Пеньков",
+          "username": "mrraspik",
+          "type": "private"
+        },
+        "date": 1629299491,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 48537599,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 333003124,
+          "is_bot": false,
+          "first_name": "Вадим",
+          "last_name": "Пеньков",
+          "username": "mrraspik",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 333003124,
+          "first_name": "Вадим",
+          "last_name": "Пеньков",
+          "username": "mrraspik",
+          "type": "private"
+        },
+        "date": 1629299494,
+        "text": "aqaq"
+      }
+    },
+    {
+      "update_id": 48537600,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 333003124,
+          "is_bot": false,
+          "first_name": "Вадим",
+          "last_name": "Пеньков",
+          "username": "mrraspik",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 333003124,
+          "first_name": "Вадим",
+          "last_name": "Пеньков",
+          "username": "mrraspik",
+          "type": "private"
+        },
+        "date": 1629299496,
+        "text": "aq"
+      }
+    }
+  ]
+}
