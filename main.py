@@ -6,7 +6,7 @@ import json
 app = Flask(__name__)
 #TODO
 print("SomeOneHelpMe2")
-URL = 'https://api.telegram.org/bot1953357082:AAHPqtBfi2HA_IsJrFQDM4m5zkpA6HsnoQ8/'
+URL = 'https://api.telegram.o/'
 
 
 def write_json(data, filename = "answer.json"):
